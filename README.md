@@ -99,7 +99,7 @@ This project shows how machine learning can help understand and forecast stock t
 
 ## 🙋‍♂️ Created By: Shivam Shashank
 
-📧 Email: `shivamshashankofficial@gmail.com`  
+📧 Email: `shivamshashank961@gmail.com`  
 🔗 GitHub: [ShivamShashank](https://github.com/ShivamShashank11)  
 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shivam-shashank-616957213/)
 
